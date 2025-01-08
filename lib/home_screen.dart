@@ -100,7 +100,7 @@ class HomeScreenState extends State<HomeScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Lottie.asset(
-                        "assets/images/animations/Animation - 1735085280936.json",
+                        "assets/images/animations/empty_list.json",
                         alignment: Alignment.center,
                         width: 150,
                         height: 150,
